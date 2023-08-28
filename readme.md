@@ -7,7 +7,6 @@ LICENSE: [MIT](./assets/license.md)
 ----
 
 ### Содержание:
-1. [История](./assets/history.md)
-
+1. [История](history.md)
 
 
